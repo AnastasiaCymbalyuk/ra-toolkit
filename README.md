@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0anfl80ca32dsoqk?svg=true)](https://ci.appveyor.com/project/AnastasiaCymbalyuk77753/ra-toolkit)

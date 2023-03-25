@@ -1,0 +1,37 @@
+.images_list_item_image {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.images_list {
+  display: flex;
+  justify-content:left;
+  flex-direction: row-reverse;
+  flex-wrap: wrap-reverse;
+}
+
+.images_form_title {
+  margin: 20px;
+}
+
+.images_form_box {
+  border-top: 2px solid rgb(64, 33, 218);
+  padding: 10px;
+}
+
+.input_wrapper > input {
+  width: 200px;
+  height: 30px;
+  margin: 20px;
+}
+
+.facts_form_tooltipe {
+  margin: 10px 20px;
+  color:  rgb(64, 33, 218);
+  font-size: 12px;
+}
